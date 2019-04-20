@@ -1,7 +1,10 @@
 # statsdc
+
+## Description
+
 Descriptive Statistics for continuous data (R project)
 
-Example:
+## Example
 
 ![alt text](https://i.imgur.com/PiLbz8K.png)
 
